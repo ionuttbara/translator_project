@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name= "imageTranslate">Tradu din image</string>
+    <string name="textTranslate">Tradu din text</string>
+    <string name="textTranslate2">Tradu</string>
+    <string name="imageTranslateText">Apasa pe iconita imagine pentru a importa o imagine </string>
+    <string name="imageTranslateScannedText">Text Scanat</string>
+    <string name="imageTranslatePreview">Imagine selectata</string>
+    <string name="imageTranslateSelect">Selecteaza imagine</string>
+    <string name="imageTranslateCamera">Camera foto</string>
+    <string name="imageTranslateFileExplorer">Galerie</string>
+    <string name="imageTranslateSettings">Configurari</string>
+    <string name="internetConnection">Verificare conexiune...</string>
+    <string name="textTranslateType">Introdu text...</string>
+    <string name="textTranslateChoose">Alege limba in care vei traduce</string>
+    <string name="textTranslateTTS">Configurare limba (TTS)</string>
+    <string name="textTranslateTTSRead">Citeste textul</string>
+    <string name="textTranslateWaiting..">Se asteapta traducere</string>
+    <string name="copyToClipboard">Copiere in clipboard</string>
+</resources>
